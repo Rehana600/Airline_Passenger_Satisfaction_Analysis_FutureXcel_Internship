@@ -1,14 +1,14 @@
-#**Airline Passenger Satisfaction Analysis**
+**Airline Passenger Satisfaction Analysis**
 
 This project analyzes airline passenger satisfaction using data visualization
 and basic chatbot interaction.
 
-#**Key Features:**
+**Key Features:**
 - Passenger satisfaction analysis
 - Visualization dashboard
 - Rule-based chatbot for quick insights
 
-#**Tools Used:**
+**Tools Used:**
 - Python
 - Pandas
 - NumPy
